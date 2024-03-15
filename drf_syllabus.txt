@@ -1,0 +1,23 @@
+Covering in this course:
+------------------------
+
+- What is API and REST API
+- What is DRF
+- Serializers
+- Serialization and Deserialization
+- Validation
+- Modal Serializer
+- Function Based API View
+- Class Based API View
+- Mixins
+- Generic API View
+- ViewSet
+- Authentication and Permission
+- JWT
+- Throttling
+- Filtering
+- Pagination
+- Hyperlinked Modal Serializer
+- Serializer Relation
+- Nested Serializer
+- CRUD API Project
